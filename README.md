@@ -12,24 +12,27 @@ Consdiering that the total of students removed (461) is only 1.2% of the total n
 * % Passing Reading is also reduced by 0.02%
 * % Overall Passing is reduced by 0.03%
  
-Image 1 (practice exercise summary):
+Image 1:
 
-![District Analysis Practice]()
-Image 2 (challenge summary):
-![District Summary]()
+![District Analysis Practice](https://github.com/LauraZJ/School-District-Analysis/blob/main/Resources/Images/District_Analysis_practice.png)
+
+Image 2:
+![District Summary](https://github.com/LauraZJ/School-District-Analysis/blob/main/Resources/Images/District_summary.png)
 
 ## School Summary Impact
 The only changes to the school summary are in the Thomas High School row
 * The percent passing math, % passing reading and % overall passing increased from the 60s to 90s.
 
-![school summary before update]()
-![school summary after update]()
+![school summary before update](https://github.com/LauraZJ/School-District-Analysis/blob/main/Resources/Images/school_summary_before_update.png)
+
+![school summary after update](https://github.com/LauraZJ/School-District-Analysis/blob/main/Resources/Images/school_summary_after_update.png)
 
 ## Impact on Thomas High School's performance compared to other schools
 Due to the increase in the overall average, Thomas High School mmoved up to second place in the list of high performing schools. 
 
-![Top Schools before]()
-![Top Schools After]()
+![Top Schools before](https://github.com/LauraZJ/School-District-Analysis/blob/main/Resources/Images/Top_schools_before.png)
+
+![Top Schools After](https://github.com/LauraZJ/School-District-Analysis/blob/main/Resources/Images/Top_Schools_After.png)
 
 # How does replacing the ninth-grade affect scores by grade
 * Math and reading scores by grade  - due to the lack of scores for 9th grade, Thomas High School
