@@ -28,13 +28,13 @@ The only changes to the school summary are in the Thomas High School row
 ![school summary after update](https://github.com/LauraZJ/School-District-Analysis/blob/main/Resources/Images/school_summary_after_update.png)
 
 ## Impact on Thomas High School's performance compared to other schools
-Due to the increase in the overall average, Thomas High School mmoved up to second place in the list of high performing schools. 
+Due to the increase in the overall average, Thomas High School mmoved up to second place in the list of high performing schools. The first image below is the rankings prior to adjusting for the 9th grade scores.  The second image is after the adjustment.
 
 ![Top Schools before](https://github.com/LauraZJ/School-District-Analysis/blob/main/Resources/Images/Top_schools_before.png)
 
 ![Top Schools After](https://github.com/LauraZJ/School-District-Analysis/blob/main/Resources/Images/Top_Schools_After.png)
 
-# How does replacing the ninth-grade affect scores by grade
+## How does replacing the ninth-grade affect scores by grade
 * Math and reading scores by grade  - due to the lack of scores for 9th grade, Thomas High School
 * Scores by school spending - because Thomas high school has a better overall schore, the performce by school spending is improved.
 * Scores by school size - because Thomas high school has a better overall schore, the performce by school spending is improved.
